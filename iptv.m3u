@@ -22,47 +22,22 @@ https://bloomberg.com/media-manifest/streams/eu.m3u8
 #EXTINF:0,Fashion TV
 http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
 
-#EXTINF:-1,JOJ
-https://nn.geo.joj.sk/live/hls/joj-540.m3u8
 #EXTINF:-1,JOJ 24
 https://live.cdn.joj.sk/live/andromeda/joj_news-720.m3u8
-#EXTINF:-1,JOJ Plus
-https://nn.geo.joj.sk/live/hls/jojplus-540.m3u8
+
+
 #EXTINF:-1,LocAll
 http://tv.geniusnet.sk:8081/localltv/pl.m3u8
-#EXTINF:-1,NOVE ZAMKY TV
-http://s1.media-planet.sk/live/novezamky/playlist.m3u8
-#EXTINF:-1,NOVE ZAMKY TV
-rtmp://s1.media-planet.sk:80/live/novezamky
+
 #EXTINF:-1,Raj TV
 https://ottst05.flexitv.sk/2827-tv-pc.m3u8
 #EXTINF:-1,Reduta
 https://5ca49f2417d90.streamlock.net/live/reduta/playlist.m3u8
-#EXTINF:-1,Reduta
-rtmp://s1.media-planet.sk:80/live/reduta
-#EXTINF:-1,Senzi TV
-http://lb.streaming.sk/senzi/stream/playlist.m3u8
-#EXTINF:-1,Severka.tv
-http://88.212.7.11/live/test_severka_web_player/playlist.m3u8
-#EXTINF:-1,TA3
-https://get-a-flippin-ta3-url-dss6dgprdpjf.runkit.sh/
-#EXTINF:-1,Televízia OSEM
-https://5b17837053cfa.streamlock.net/tv8/mp4:tv8.stream_360p/playlist.m3u8
-#EXTINF:-1,Turzovka
-rtmp://s1.media-planet.sk:80/live/turzovka
-#EXTINF:-1,TV JOJ 360p
-https://nn.geo.joj.sk/live/hls/joj-360.m3u8
-#EXTINF:-1,TV JOJ 720p
-https://nn.geo.joj.sk/live/hls/joj-720.m3u8
-#EXTINF:-1,TV JOJ Plus 360p
-https://nn.geo.joj.sk/live/hls/jojplus-360.m3u8
+
+
 #EXTINF:-1,TV Lux
 https://stream.tvlux.sk/lux/ngrp:lux.stream_all/playlist.m3u8
-#EXTINF:-1,TV Wau 360p
-https://nn.geo.joj.sk/live/hls/wau-360.m3u8
-#EXTINF:-1,tvm
-http://95.105.193.219:88/dash/tvm.mpd
+
 #EXTINF:-1,tvNRSR (national congress)
 https://n15.stv.livebox.sk/stv-tv/_definst_/stv7.smil/playlist.m3u8
-#EXTINF:-1,Wau
-https://nn.geo.joj.sk/live/hls/wau-540.m3u8
+
