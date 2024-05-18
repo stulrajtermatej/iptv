@@ -1,3 +1,6 @@
 
 #EXTINF:-1 tvg-id="Russia24.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/512px-Rossiya-24_Logo.svg.png" group-title="News",Россия 24
 http://s18209.cdn.ngenix.net/hls/CH_R01_ROSSIA24/playlist.m3u8
+
+#EXTINF:0,Senzi TV
+http://lb.streaming.sk/senzi/stream/playlist.m3u8
