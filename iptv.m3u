@@ -4,8 +4,6 @@
 http://lb.streaming.sk/senzi/stream/playlist.m3u8
 
 
-#EXTINF:0,TA3
-https://get-a-flippin-ta3-url-dss6dgprdpjf.runkit.sh/
 
 #EXTINF:-1 tvg-id="Russia24.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/512px-Rossiya-24_Logo.svg.png" group-title="News",Россия 24
 http://s18209.cdn.ngenix.net/hls/CH_R01_ROSSIA24/playlist.m3u8
@@ -15,8 +13,55 @@ http://s18209.cdn.ngenix.net/hls/CH_R01_ROSSIA24/playlist.m3u8
 http://s18209.cdn.ngenix.net/hls/CH_R04_ROSSIA1/playlist.m3u8
 
 
-#EXTINF:0,TA3
-https://get-a-flippin-ta3-url-dss6dgprdpjf.runkit.sh/
 
 #EXTINF:-1 tvg-id="BloombergTVEurope.uk" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Business",Bloomberg TV Europe (720p)
 https://bloomberg.com/media-manifest/streams/eu.m3u8
+
+
+
+#EXTINF:0,Fashion TV
+http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
+#EXTINF:0,JOJ
+https://nn.geo.joj.sk/live/hls/joj-540.m3u8
+#EXTINF:0,JOJ 24
+https://live.cdn.joj.sk/live/andromeda/joj_news-720.m3u8
+#EXTINF:0,JOJ Plus
+https://nn.geo.joj.sk/live/hls/jojplus-540.m3u8
+#EXTINF:0,LocAll
+http://tv.geniusnet.sk:8081/localltv/pl.m3u8
+#EXTINF:0,NOVE ZAMKY TV
+http://s1.media-planet.sk/live/novezamky/playlist.m3u8
+#EXTINF:0,NOVE ZAMKY TV
+rtmp://s1.media-planet.sk:80/live/novezamky
+#EXTINF:0,Raj TV
+https://ottst05.flexitv.sk/2827-tv-pc.m3u8
+#EXTINF:0,Reduta
+https://5ca49f2417d90.streamlock.net/live/reduta/playlist.m3u8
+#EXTINF:0,Reduta
+rtmp://s1.media-planet.sk:80/live/reduta
+#EXTINF:0,Senzi TV
+http://lb.streaming.sk/senzi/stream/playlist.m3u8
+#EXTINF:0,Severka.tv
+http://88.212.7.11/live/test_severka_web_player/playlist.m3u8
+#EXTINF:0,TA3
+https://get-a-flippin-ta3-url-dss6dgprdpjf.runkit.sh/
+#EXTINF:0,Televízia OSEM
+https://5b17837053cfa.streamlock.net/tv8/mp4:tv8.stream_360p/playlist.m3u8
+#EXTINF:0,Turzovka
+rtmp://s1.media-planet.sk:80/live/turzovka
+#EXTINF:0,TV JOJ 360p
+https://nn.geo.joj.sk/live/hls/joj-360.m3u8
+#EXTINF:0,TV JOJ 720p
+https://nn.geo.joj.sk/live/hls/joj-720.m3u8
+#EXTINF:0,TV JOJ Plus 360p
+https://nn.geo.joj.sk/live/hls/jojplus-360.m3u8
+#EXTINF:0,TV Lux
+https://stream.tvlux.sk/lux/ngrp:lux.stream_all/playlist.m3u8
+#EXTINF:0,TV Wau 360p
+https://nn.geo.joj.sk/live/hls/wau-360.m3u8
+#EXTINF:0,tvm
+http://95.105.193.219:88/dash/tvm.mpd
+#EXTINF:0,tvNRSR (national congress)
+https://n15.stv.livebox.sk/stv-tv/_definst_/stv7.smil/playlist.m3u8
+#EXTINF:0,Wau
+https://nn.geo.joj.sk/live/hls/wau-540.m3u8
