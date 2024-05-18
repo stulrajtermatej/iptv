@@ -44,3 +44,9 @@ https://n15.stv.livebox.sk/stv-tv/_definst_/stv7.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ChannelOne.ru" tvg-logo="https://i.imgur.com/RUSX0rX.png" group-title="General" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148",Channel One
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s14/index.m3u8
+
+
+#EXTINF:-1 tvg-id="Zvezda.ru" tvg-logo="https://i.imgur.com/4PAcpfM.png" group-title="General",Zvezda
+http://s18209.cdn.ngenix.net/hls/CH_R03_ZVEZDA/playlist.m3u8
+#EXTINF:-1 tvg-id="ZvezdaPlus.ru" tvg-logo="https://i.imgur.com/NNmjD9Z.png" group-title="",Zvezda Plus
+http://tvchannelstream1.tvzvezda.ru/cdn/zvezdaplus/playlist.m3u8
