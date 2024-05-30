@@ -1,59 +1,44 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="ElektrikaTV.cz",Elektrika TV (1080p)
+
+#EXTINF:-1 tvg-id="ElektrikaTV.cz" tvg-logo="https://i.imgur.com/OLd5od5.png" group-title="",Elektrika TV
 https://rtmp.elektrika.cz/live/myStream.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="JC1.cz",JČ1 (1080p)
+#EXTINF:-1 tvg-id="JC1.cz" tvg-logo="https://i.imgur.com/AM8YtcV.png" group-title="General",JC1
 https://stream.jc1.cz/hls/jc1.m3u8
-#EXTINF:-1 tvg-id="Jihoceskatelevize.cz",Jihočeská televize (1080p)
+#EXTINF:-1 tvg-id="Jihoceskatelevize.cz" tvg-logo="https://i.imgur.com/Hi8hZzl.png" group-title="General",Jihoceska televize
 https://vysilani.zaktv.cz/broadcast/hls/jtv/index.m3u8
-#EXTINF:-1 tvg-id="KuryrTV.cz",Kurýr TV (1080p) [Not 24/7]
-https://stream-35.mazana.tv/jc2.jc.m3u8
-#EXTINF:-1 tvg-id="MnauTV.cz",Mňau TV (1080p)
+
+
+#EXTINF:-1 tvg-id="MnauTV.cz" tvg-logo="https://i.imgur.com/deVHJKS.png" group-title="",Mnau TV
 https://5ca49f2417d90.streamlock.net/mnau/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="Ocko.cz",Óčko (540p)
+#EXTINF:-1 tvg-id="Ocko.cz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/%C3%93%C4%8Dko_logo_2012.png/512px-%C3%93%C4%8Dko_logo_2012.png" group-title="Music",Ocko
 https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko.stream.1.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Ocko.cz",Óčko (540p)
-https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist.m3u8
-#EXTINF:-1 tvg-id="OckoExpres.cz",Óčko Expres (540p)
+#EXTINF:-1 tvg-id="OckoExpres.cz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/%C3%93%C4%8Dko_Expres_logo.png/512px-%C3%93%C4%8Dko_Expres_logo.png" group-title="Music",Ocko Expres
 https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist.m3u8
-#EXTINF:-1 tvg-id="OckoGold.cz",Óčko Gold (540p)
+#EXTINF:-1 tvg-id="OckoGold.cz" tvg-logo="https://i.imgur.com/nrWNyLc.jpg" group-title="Music",Ocko Gold
 https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist.m3u8
-#EXTINF:-1 tvg-id="OckoGold.cz",Óčko Gold (540p) [Geo-blocked]
-https://ocko-live.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="OIKTV.cz",OIK TV (720p)
+#EXTINF:-1 tvg-id="OIKTV.cz" tvg-logo="https://i.imgur.com/1mXxQ02.png" group-title="",OIK TV
 https://streamer05.low-latency.cz/oiktv/index.m3u8
-#EXTINF:-1 tvg-id="PlzenTV.cz",Plzeň TV (1080p)
+#EXTINF:-1 tvg-id="PlzenTV.cz" tvg-logo="https://i.imgur.com/TxLKSqL.png" group-title="General",Plzen TV
 https://vysilani.zaktv.cz/broadcast/hls/ptv/index.m3u8
-#EXTINF:-1 tvg-id="Polar2.cz",Polar2 TV (1080p)
+#EXTINF:-1 tvg-id="Polar2.cz" tvg-logo="https://i.imgur.com/hCPiMYZ.png" group-title="General",Polar2
 https://stream.polar.cz/polar2/polarlive2-1/playlist.m3u8
-#EXTINF:-1 tvg-id="PolarTV.cz",Polar TV (1080p)
+#EXTINF:-1 tvg-id="PolarTV.cz" tvg-logo="https://i.imgur.com/pTJHIX1.png" group-title="General",Polar TV
 https://stream.polar.cz/polar/polarlive-1/playlist.m3u8
-#EXTINF:-1 tvg-id="PrahaTV.cz",Praha TV (1080p)
+#EXTINF:-1 tvg-id="PrahaTV.cz" tvg-logo="https://i.imgur.com/L5ju77d.png" group-title="",Praha TV
 https://stream.polar.cz/prahatv/prahatvlive-1/playlist.m3u8
-#EXTINF:-1 tvg-id="RetroMusicTV.cz",Retro Music Television (360p)
-https://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
-#EXTINF:-1 tvg-id="RetroMusicTV.cz",Retro Music TV (360p)
-http://89.185.253.55/retrotv/retrotvHQ1/playlist.m3u8
-#EXTINF:-1 tvg-id="RetroMusicTV.cz",RetroMusicTV (360p)
-https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTMPlus.cz",RTM Plus (720p) [Not 24/7]
-https://www.rtmplus.cz/live/1-playlist.m3u8
-#EXTINF:-1 tvg-id="SlagerMuzika.cz",Šláger Muzika (576p)
-https://stream-33.mazana.tv/slagr2.m3u
-#EXTINF:-1 tvg-id="SlagerOriginal.cz",Šláger Originál (576p)
-https://stream-6.mazana.tv/slagr.m3u
-#EXTINF:-1 tvg-id="SlagerPremium.cz",Šláger Premium (1080p)
-https://stream-15.mazana.tv/slagrpremium.m3u
-#EXTINF:-1 tvg-id="TVBrno1.cz",TV Brno 1 (1080p)
+
+#EXTINF:-1 tvg-id="TVBrno1.cz" tvg-logo="https://i.imgur.com/8Xm3WSn.png" group-title="General",TV Brno 1
 https://stream.polar.cz/tvbrno1/tvbrno1live-1/playlist.m3u8
-#EXTINF:-1 tvg-id="TVNatura.cz",TV Natura (360p) [Not 24/7]
+#EXTINF:-1 tvg-id="TVMohelnice.cz" tvg-logo="https://i.imgur.com/4SW1zfV.jpg" group-title="General",TVMohelnice
+https://ythls.armelin.one/channel/UCr8xNHreYlR3gOjXnd82PBQ.m3u8
+
+#EXTINF:-1 tvg-id="TVNatura.cz" tvg-logo="https://i.imgur.com/qm68PG3.png" group-title="",TV Natura
 https://media1.tvnatura.cz/live_out/1/live.m3u8
-#EXTINF:-1 tvg-id="TVNoe.cz",TV NOE (720p)
+#EXTINF:-1 tvg-id="TVNoe.cz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Noe-logo-2016.png/512px-Noe-logo-2016.png" group-title="",TV Noe
 https://n105.quickmedia.tv/noe-abr/noe-abr/playlist_dvr.m3u8
-#EXTINF:-1 tvg-id="TVNoePlus.cz",TV NOE+ (720p)
+#EXTINF:-1 tvg-id="TVNoePlus.cz" tvg-logo="https://i.imgur.com/p4FtFUl.png" group-title="General",TV Noe+
 https://n105.quickmedia.tv/noe-2-abr/noe-2-abr/playlist_dvr.m3u8
-#EXTINF:-1 tvg-id="UTV.cz",ÚTV (1080p)
+#EXTINF:-1 tvg-id="UTV.cz" tvg-logo="https://i.imgur.com/ulfeIwM.png" group-title="",UTV
 https://vysilani.zaktv.cz/broadcast/hls/utv/index.m3u8
-#EXTINF:-1 tvg-id="VychodoceskaTV.cz",Východočeská TV (1080p)
+#EXTINF:-1 tvg-id="VychodoceskaTV.cz" tvg-logo="https://i.imgur.com/4Wwptd3.png" group-title="",Vychodoceska TV
 https://stream.polar.cz/vctv/vctvlive-1/playlist.m3u8
-#EXTINF:-1 tvg-id="KinoBarrandov.cz",Kino Barrandov (720p)
-http://83.167.253.107/hdmi1_ext
